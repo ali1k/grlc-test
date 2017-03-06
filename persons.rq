@@ -1,8 +1,7 @@
 #+ summary: persons on DBpedia
 #+ endpoint: http://dbpedia.org/sparql
 #+ tags:
-#+   - test
-#+   -  persons
+#+   - persons
 #+ method: GET
 #+ pagination: 100
 
